@@ -30,7 +30,7 @@ To zoom in or out, pinch the screen in or out or press the Zoom In or Zoom Out b
 
 ### Placemarks
 
-To view the description of a placemark, press the placemark to open a pop-up. To jump to the placemark in the list of placemarks, press the placemark pop-up. Scroll up or down to view placemarks. Press a placemark to move the map to the placemark. You can also scroll the information in the placemark pop-up.
+To view the description of a placemark, press the placemark to open a pop-up. To jump to the placemark in the list of placemarks, press the placemark pop-up. Scroll up or down to view placemarks. Press a placemark to move the map to the placemark. You can also scroll the description in the placemark pop-up as well.
 
 [<img src="./screenshots/android/placemarks.webp"
      alt="Placemarks"
@@ -63,7 +63,7 @@ To cache map tiles for offline use, edit the layer and select the Cache Tiles ch
 
 ### Tracking
 
-To start tracking, press the Track button. Select the Allow all the time permission. Adjust the desired Tracking Interval and/or Tracking Distance Filter from the Preferences menu. Tracking Interval is how many minutes between tracking points. Tracking Distance Filter is the minimum amount of distance in meters that must be between points for a new point to be created. To stop tracking, press the Track button again.
+To start tracking, press the Track button. Select the Allow all the time permission. Adjust the desired Tracking Interval and/or Tracking Distance Filter from the Preferences menu. Tracking Interval is time between tracking points. Tracking Distance Filter is the minimum amount of distance in meters that must be between points for a new point to be created. To stop tracking, press the Track button again.
 
 [<img src="./screenshots/android/tracking.webp"
      alt="Tracking"
@@ -79,9 +79,8 @@ To load a preset layer, press Layers from the menu. From the Layers screen, pres
 
 ### Share
 
-To share a placemark, press the placemark pop-up. Long press the placemark. Press the Share button. Edit the desired fields. Press the Send button. Choose the desired method of sharing. Update who to share with. Send the message.
+To share a placemark, press the placemark pop-up. Long press the placemark. Press the Share button. Edit the desired fields. Press the Send button. Choose the desired method of sharing. Update who to share with. Send the message. An advantage to using email as the share method is that when you are offline, your email client should queue up your messages and send them once you return online.
 
 [<img src="./screenshots/android/share.webp"
      alt="Share"
      height="400">](./screenshots/android/share.webp)
-

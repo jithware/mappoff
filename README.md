@@ -27,6 +27,13 @@ To zoom in or out, pinch the screen in or out or press the Zoom In or Zoom Out b
      alt="Zoom"
      height="400">](./screenshots/android/zoom.webp)
 
+### Preferences
+
+To modify preferences, press Preferences from the menu. Update your Trail Name if desired. This will be used when sharing placemarks. Adjust the Default Zoom. This will be used when zooming to a placemark.
+
+[<img src="./screenshots/android/preferences.webp"
+     alt="Preferences"
+     height="400">](./screenshots/android/preferences.webp)
 
 ### Placemarks
 
@@ -61,6 +68,15 @@ To cache map tiles for offline use, edit the layer and select the Cache Tiles ch
      alt="Cache"
      height="400">](./screenshots/android/cache.webp)
 
+
+### Show
+
+To show only points in a Layer, edit the layer and select only the points checkbox. Press the Save button. To show only lines, do the same for the lines checkbox. Note: if this is an editable layer, it will remove the points and/or lines. An edit checkbox will be visisble if the layer is editable.
+
+[<img src="./screenshots/android/show.webp"
+     alt="Show"
+     height="400">](./screenshots/android/show.webp)
+
 ### Tracking
 
 To start tracking, press the Track button. Select the Allow all the time permission. Adjust the desired Tracking Interval and/or Tracking Distance Filter from the Preferences menu. Tracking Interval is time between tracking points. Tracking Distance Filter is the minimum amount of distance in meters that must be between points for a new point to be created. To stop tracking, press the Track button again.
@@ -84,3 +100,11 @@ To share a placemark, press the placemark pop-up. Long press the placemark. Pres
 [<img src="./screenshots/android/share.webp"
      alt="Share"
      height="400">](./screenshots/android/share.webp)
+
+### Equalize
+
+If it appears the map is lagging when drawn, either disable/remove other layers or equalize the lines in the layer. Equalizing reduces the number of lines drawn. To equalize the lines in a layer, begin editing the layer. Increase the equalize to reduce the number of lines. Press the Save button. Notice the lines and distance are reduced in the Layer description. 
+
+[<img src="./screenshots/android/equalize.webp"
+     alt="Equalize"
+     height="400">](./screenshots/android/equalize.webp)

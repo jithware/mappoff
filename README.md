@@ -27,6 +27,14 @@ To zoom in or out, pinch the screen in or out or press the Zoom In or Zoom Out b
      alt="Zoom"
      height="400">](./screenshots/android/zoom.webp)
 
+### Move 
+
+To move the map, touch anywhere on the map and drag to the location to move to.
+
+[<img src="./screenshots/android/move.webp"
+     alt="Move"
+     height="400">](./screenshots/android/move.webp)
+
 ### Preferences
 
 To modify preferences, press Preferences from the menu. Update your Trail Name if desired. This will be used when sharing placemarks. Adjust the Default Zoom. This will be used when zooming to a placemark.
@@ -108,3 +116,11 @@ If it appears the map is lagging when drawn, either disable/remove other layers 
 [<img src="./screenshots/android/equalize.webp"
      alt="Equalize"
      height="400">](./screenshots/android/equalize.webp)
+
+### Export
+
+To export a layer, first create a new layer. Edit the layer and select the Share button. Choose a method to share with.
+
+[<img src="./screenshots/android/export.webp"
+     alt="Export"
+     height="400">](./screenshots/android/export.webp)

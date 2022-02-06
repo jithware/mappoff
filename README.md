@@ -68,6 +68,14 @@ To add a new layer, press Layers from the menu. From the Layers screen, press th
      alt="Layers"
      height="400">](./screenshots/android/layers.webp)
 
+### Edit
+
+To edit multiple layers, first create multiple layers. Ensure the edit checkbox is checked for layers to be edited. Adding a placemark will add it to multiple layers. To edit only one layer, ensure only the desired layer edit is checked. Add a placemark to the layer.
+
+[<img src="./screenshots/android/edit.webp"
+     alt="Edit"
+     height="400">](./screenshots/android/edit.webp)
+
 ### Cache
 
 To cache map tiles for offline use, edit the layer and select the Cache Tiles checkbox. Adjust the Tile Cache Size to the desired amount of tiles to cache. Adjust the Tile Cache Range to modify the range of tiles to cache. For example, a range of 0-25 will cache the first 25% of points and lines in the layer. This allows for higher zoom resolution of the tiles cached. Press the Download button to download the tiles.

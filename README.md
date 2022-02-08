@@ -8,6 +8,8 @@ Mappoff was created for and maintained by hikers. Because it is often neccesary 
 [<img src="./images/get-it-on.png"
      alt="Get it on The Web"
      height="80">](https://jithware.github.io/mappoff)
+     
+Note the web version has a limited amount of features.
 
 ## Usage
 

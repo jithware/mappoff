@@ -1,6 +1,6 @@
 # Mappoff
 
-Mappoff was created for and maintained by hikers. Because it is often neccesary to do MAPPing OFFline when in remote areas, Mappoff allows you to save map layers and tiles for later offline use. Additionally you can create your own waypoints or enable tracking to save hiking routes. There are several preset layers including the PCT Water Report, the Appalachian Trail, the Continental Divide Trail, the Pacific Crest Trail, among others.
+Mappoff was created for and maintained by hikers. Because it is often neccesary to do MAPPing OFFline when in remote areas, Mappoff allows you to save map layers and tiles for later offline use. Additionally you can create your own waypoints or enable tracking to save hiking routes. There are several preset layers including the [PCT Water Report](https://www.google.com/maps/d/viewer?mid=1UtogyvQzegPXZYLARMCTwckZTRxIOOLf), the Appalachian Trail, the Continental Divide Trail, the Pacific Crest Trail, among others.
 
 [<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
      alt="Get it on Google Play"
@@ -9,7 +9,7 @@ Mappoff was created for and maintained by hikers. Because it is often neccesary 
      alt="Get it on The Web"
      height="80">](https://jithware.github.io/mappoff)
      
-Note the web version has a limited amount of features.
+*Note the web version has a limited amount of features.*
 
 ## Usage
 
@@ -39,7 +39,7 @@ To move the map, touch anywhere on the map and drag to the location to move to.
 
 ### Preferences
 
-To modify preferences, press Preferences from the menu. Update your Trail Name if desired. This will be used when sharing placemarks. Adjust the Default Zoom. This will be used when zooming to a placemark.
+To modify preferences, press Preferences from the menu. Update your Trail Name if desired. This will be used when [sharing](#share) placemarks. Adjust the Default Zoom. This will be used when [zooming](#zoom) to a placemark.
 
 [<img src="./screenshots/android/preferences.webp"
      alt="Preferences"
@@ -72,7 +72,7 @@ To add a new layer, press Layers from the menu. From the Layers screen, press th
 
 ### Edit
 
-To edit multiple layers, first create multiple layers. Ensure the edit checkbox is checked for layers to be edited. Adding a placemark will add it to multiple layers. To edit only one layer, ensure only the desired layer edit is checked. Add a placemark to the layer.
+To edit multiple layers, first create multiple [layers](#layers). Ensure the Edit checkbox is checked for layers to be edited. Adding a [placemark](#placemark) will add it to multiple layers. To edit only one layer, ensure only the desired layer Edit is checked. Add a placemark to the layer.
 
 [<img src="./screenshots/android/edit.webp"
      alt="Edit"
@@ -80,7 +80,7 @@ To edit multiple layers, first create multiple layers. Ensure the edit checkbox 
 
 ### Cache
 
-To cache map tiles for offline use, edit the layer and select the Cache Tiles checkbox. Adjust the Tile Cache Size to the desired amount of tiles to cache. Adjust the Tile Cache Range to modify the range of tiles to cache. For example, a range of 0-25 will cache the first 25% of points and lines in the layer. This allows for higher zoom resolution of the tiles cached. Press the Download button to download the tiles.
+To cache map tiles for offline use, [edit](#layers) the layer and select the Cache Tiles checkbox. Adjust the Tile Cache Size to the desired amount of tiles to cache. Adjust the Tile Cache Range to modify the range of tiles to cache. For example, a range of 0-25 will cache the first 25% of points and lines in the layer. This allows for higher zoom resolution of the tiles cached. Press the Download button to download the tiles.
 
 [<img src="./screenshots/android/cache.webp"
      alt="Cache"
@@ -89,7 +89,7 @@ To cache map tiles for offline use, edit the layer and select the Cache Tiles ch
 
 ### Show
 
-To show only points in a Layer, edit the layer and select only the points checkbox. Press the Save button. To show only lines, do the same for the lines checkbox. Note: if this is an editable layer, it will remove the points and/or lines. An edit checkbox will be visisble if the layer is editable.
+To show only points in a Layer, [edit](#layers) the layer and select only the points checkbox. Press the Save button. To show only lines, do the same for the lines checkbox. Note: if this is an editable layer, it will remove the points and/or lines. An edit checkbox will be visisble if the layer is editable.
 
 [<img src="./screenshots/android/show.webp"
      alt="Show"
@@ -129,7 +129,7 @@ If it appears the map is lagging when drawn, either disable/remove other layers 
 
 ### Export
 
-To export a layer, first create a new layer. Edit the layer and select the Share button. Choose a method to share with.
+To export a layer, first create a new [layer](#layers). Edit the layer and select the Share button. Choose a method to share with.
 
 [<img src="./screenshots/android/export.webp"
      alt="Export"

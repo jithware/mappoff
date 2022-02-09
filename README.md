@@ -134,3 +134,9 @@ To export a layer, first create a new [layer](#layers). Edit the layer and selec
 [<img src="./screenshots/android/export.webp"
      alt="Export"
      height="400">](./screenshots/android/export.webp)
+
+## Donate
+
+Donate to the project's maintainer [@jithware](https://github.com/jithware)
+
+[![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/jithware/donate) | [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/donate/?hosted_button_id=2ZFSMQ8DGQVFS)

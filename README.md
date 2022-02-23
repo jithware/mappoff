@@ -11,6 +11,10 @@ Mappoff was created for and maintained by hikers. Because it is often neccesary 
      
 *Note the web version has a limited amount of features.*
 
+## Screenshots
+
+![feature](./images/feature.png)
+
 ## Usage
 
 ### Location

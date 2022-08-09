@@ -9,7 +9,7 @@ Mappoff was created for and maintained by hikers. Because it is often neccesary 
      alt="Get it on The Web"
      height="80">](https://jithware.github.io/mappoff)
      
-*Note the web version has a limited amount of features and can only be used while online.*
+*Note the web version has a limited amount of features and can only be used while online. iPhone users can only use the web version at this time.*
 
 ## Screenshots
 

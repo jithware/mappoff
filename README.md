@@ -27,7 +27,7 @@ To move the map to your current location, press the Location button. Accept the 
 
 ### Zoom
 
-To zoom in or out, pinch the screen in or out or press the Zoom In or Zoom Out buttons. To zoom to the layer's extent, hold down either the Zoom In or Zoom Out button. To zoom to a placemark, press the placemark cluster and then press the placemark. Press the screen away from the placemark to remove the placemark pop-up.
+To zoom in or out, pinch the screen in or out or press the Zoom In or Zoom Out buttons. To zoom to the layer's extent, hold down either the Zoom In or Zoom Out button. To zoom to a placemark, press the placemark cluster and then press the placemark. 
 
 [<img src="./screenshots/android/zoom.webp"
      alt="Zoom"
@@ -51,7 +51,7 @@ To modify preferences, press Preferences from the menu. Update your Trail Name i
 
 ### Placemarks
 
-To view the description of a placemark, press the placemark to open a pop-up. To jump to the placemark in the list of placemarks, press the placemark pop-up. Scroll up or down to view placemarks. Press a placemark to move the map to the placemark. You can also scroll the description in the placemark pop-up as well.
+To view the description of a placemark, press the placemark to open a pop-up. To jump to the placemark in the list of placemarks, press the placemark pop-up. Scroll up or down to view placemarks. Press a placemark to move the map to the placemark. You can also scroll the description in the placemark pop-up as well. Press the screen away from the placemark to remove the placemark pop-up.
 
 [<img src="./screenshots/android/placemarks.webp"
      alt="Placemarks"
@@ -68,7 +68,7 @@ To add a new placemark, press the Add Point button to center the placemark on th
 
 ### Layers
 
-To add a new layer, press Layers from the menu. From the Layers screen, press the Add button. Press the New File button and the press the Add button to add the layer. To edit a layer, long press the layer to edit. Update the desired fields and press the Save button. To enable or disable a layer, press the checkbox. To remove a layer, swipe the layer either left or right.
+To add a new layer, press Layers from the menu. From the Layers screen, press the Add button. Press the New File button and the press the Add button to add the layer. To edit a layer, long press the layer to edit. Update the desired fields and press the Save button. To enable or disable a layer, press the checkbox. To remove a layer, swipe the layer either left or right.  
 
 [<img src="./screenshots/android/layers.webp"
      alt="Layers"
@@ -76,7 +76,7 @@ To add a new layer, press Layers from the menu. From the Layers screen, press th
 
 ### Edit
 
-To edit multiple layers, first create multiple [layers](#layers). Ensure the Edit checkbox is checked for layers to be edited. Adding a [placemark](#placemark) will add it to multiple layers. To edit only one layer, ensure only the desired layer Edit is checked. Add a placemark to the layer.
+To edit multiple layers, first create multiple [layers](#layers). Ensure the Edit checkbox is checked for layers to be edited. Adding a [placemark](#placemark) will add it to multiple layers. To edit only one layer, ensure only the desired layer Edit is checked. 
 
 [<img src="./screenshots/android/edit.webp"
      alt="Edit"
@@ -84,7 +84,7 @@ To edit multiple layers, first create multiple [layers](#layers). Ensure the Edi
 
 ### Cache
 
-To cache map tiles for offline use, [edit](#layers) the layer and select the Cache Tiles checkbox. Adjust the Tile Cache Size to the desired amount of tiles to cache. Adjust the Tile Cache Range to modify the range of tiles to cache. For example, a range of 0-25 will cache the first 25% of points and lines in the layer. This allows for higher zoom resolution of the tiles cached. Press the Download button to download the tiles.
+To cache map tiles for offline use, [edit](#layers) the layer and select the Cache Tiles checkbox. Adjust the Tile Cache Size to the desired amount of tiles to cache. Adjust the Tile Cache Range to modify the range of tiles to cache. For example, a range of 0-25 will cache the first 25% of points and lines in the layer. This allows for higher zoom resolution of the tiles cached. Press the Save button to save changes. Press the Download button to download the tiles.
 
 [<img src="./screenshots/android/cache.webp"
      alt="Cache"
@@ -115,14 +115,6 @@ To load a preset layer, press Layers from the menu. From the Layers screen, pres
      alt="Presets"
      height="400">](./screenshots/android/presets.webp)
 
-### Share
-
-To share a placemark, press the placemark pop-up. Long press the placemark. Press the Share button. Edit the desired fields. Press the Send button. Choose the desired method of sharing. Update who to share with. Send the message. An advantage to using email as the share method is that when you are offline, your email client should queue up your messages and send them once you return online.
-
-[<img src="./screenshots/android/share.webp"
-     alt="Share"
-     height="400">](./screenshots/android/share.webp)
-
 ### Equalize
 
 If it appears the map is lagging when drawn, either disable/remove other layers or equalize the lines in the layer. Equalizing reduces the number of lines drawn. To equalize the lines in a layer, begin editing the layer. Increase the equalize to reduce the number of lines. Press the Save button. Notice the lines and distance are reduced in the Layer description. 
@@ -139,6 +131,14 @@ To export a layer, first create a new [layer](#layers). Edit the layer and selec
      alt="Export"
      height="400">](./screenshots/android/export.webp)
 
+### Share
+
+To share a placemark, press the placemark pop-up. Long press the placemark. Press the Share button. Edit the desired fields. Press the Send button. Choose the desired method of sharing. Update who to share with. Send the message. An advantage to using email as the share method is that when you are offline, your email client should queue up your messages and send them once you return online.
+
+[<img src="./screenshots/android/share.webp"
+     alt="Share"
+     height="400">](./screenshots/android/share.webp)
+     
 ## Donate
 
 Donate to the project's maintainer [@jithware](https://github.com/jithware)

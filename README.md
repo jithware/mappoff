@@ -133,7 +133,7 @@ To export a layer, first create a new [layer](#layers). Edit the layer and selec
 
 ### Share
 
-To share a placemark, press the placemark pop-up. Long press the placemark. Press the Share button. Edit the desired fields. Press the Send button. Choose the desired method of sharing. Update who to share with. Send the message. An advantage to using email as the share method is that when you are offline, your email client should queue up your messages and send them once you return online.
+To share a placemark, press the placemark pop-up. Long press the placemark. Press the Share button. Edit the desired fields. Press the Send button. Choose the desired method of sharing. Update who to share with. Send the message. An advantage to using email as the share method is that when you are offline, your email client should queue up your messages and send them once you return online. See this [video](https://youtu.be/cBffu9NST_M) for an additional sharing demo.
 
 [<img src="./screenshots/android/share.webp"
      alt="Share"

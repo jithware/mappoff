@@ -3,25 +3,32 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
-"main.dart.js": "0c7178c8aae6f70387ca859e563c7329",
-"version.json": "efc038dd81ab73ebbcc83d6091bb1e6e",
+  "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
+"main.dart.js": "6c30ad346cbb90a8475394c1b64cd54e",
+"version.json": "0195ba7aef1eefbc8bf1f65aa348bf09",
 "assets/icons/place-red.png": "2736365010ce44ac49060d1af9f90d85",
 "assets/icons/place-green.png": "619b2344e8b1bcb2a97c37d35a2e0850",
-"assets/icons/place-grey.png": "9a92795c2a0c8f88af9b3a4b4ec5d6cd",
 "assets/icons/place-blue.png": "b50a8512330336ae24b87b0fcaac8ff6",
-"assets/icons/water-drop-outlined.png": "3ea35d3bff8ab1f2996f18812d2d3666",
+"assets/icons/place-grey.png": "9a92795c2a0c8f88af9b3a4b4ec5d6cd",
 "assets/icons/water-drop.png": "a3e639ebaf438144a30e0873878745e4",
+"assets/icons/water-drop-outlined.png": "3ea35d3bff8ab1f2996f18812d2d3666",
 "assets/icons/water.png": "ef0e3bbe81cec8b53ceaa1ae5172c4c8",
+"assets/icons/park.png": "6a64a8d15191b80f1e613bad30202128",
+"assets/icons/forest.png": "1d13901123b6d95d57b16cee5e38fcb2",
+"assets/icons/terrain.png": "2d629f404bf1cc01ab38f3d14febcc5e",
+"assets/icons/hiking.png": "44b44859991ac748d4dcbc2c29b55fe2",
+"assets/icons/home.png": "ae4dfb4f5f73f4ca684ab733358828bf",
 "assets/icons/local-parking.png": "c51c668843e4dded19252c86fdc58b23",
-"assets/icons/restaurant.png": "8c030850dcb6c220f2a852570c0ad07b",
-"assets/icons/hotel.png": "c1e7f24732bb6cc7500e86c21ef42152",
 "assets/icons/info.png": "3ccb661b631cac04fd9e2f9e8e2da219",
+"assets/icons/hotel.png": "c1e7f24732bb6cc7500e86c21ef42152",
+"assets/icons/restaurant.png": "8c030850dcb6c220f2a852570c0ad07b",
+"assets/icons/wc.png": "79aa46bb83fb9297923c34b6d9654ff1",
 "assets/icons/warning.png": "ca4b417528dcd0eb15a5595ed12adab4",
+"assets/icons/pool.png": "9775f9c7ca93d17050cd13a947d36b11",
 "assets/icons/dangerous.png": "ec5b3fe50e7c4634a75a80ce1ca33573",
 "assets/icons/local-fire-department.png": "cd80d4db910f9514e956f0f0f0885cf9",
 "assets/icons/shopping-cart.png": "666f1bcce86023c6bca6d14c7a579c52",
@@ -31,25 +38,19 @@ const RESOURCES = {
 "assets/icons/camping.png": "7441376c1f75465ad396fb1e599b3fc7",
 "assets/icons/auto-graph.png": "18841108529474b9d8e9b0d7195d5b0d",
 "assets/icons/shower.png": "d1228a8b4aee22c253e2f4f6bedc2dcc",
-"assets/icons/pool.png": "9775f9c7ca93d17050cd13a947d36b11",
-"assets/icons/park.png": "6a64a8d15191b80f1e613bad30202128",
-"assets/icons/forest.png": "1d13901123b6d95d57b16cee5e38fcb2",
-"assets/icons/terrain.png": "2d629f404bf1cc01ab38f3d14febcc5e",
-"assets/icons/hiking.png": "44b44859991ac748d4dcbc2c29b55fe2",
-"assets/icons/home.png": "ae4dfb4f5f73f4ca684ab733358828bf",
-"assets/icons/wc.png": "79aa46bb83fb9297923c34b6d9654ff1",
 "assets/images/launcher.png": "7230be55205d612125328de924663b05",
 "assets/images/github-readme-qr.png": "2d7154f6608fcde1973551017054ee73",
 "assets/kml/sample.kmz": "cda81559ba3fa705005c6a97969035eb",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
+"assets/shaders/ink_sparkle.frag": "2147963e04ef3991e7988a822e50fac3",
 "assets/AssetManifest.json": "f8ca7c5816761abe72e318ebb2d9beed",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/NOTICES": "513c40b8ad1ed29898e3729affe27367",
+"assets/NOTICES": "a89800c8a39dbcd9a39ec97bff807a21",
 "favicon.png": "428494e79d329529c7bef3b6d84c576b",
 "icons/Icon-192.png": "3db6da041f26a85effda05d3f6a90d25",
 "icons/Icon-512.png": "8fe73e0ca049c2f92643a76fd34f4164",
-"index.html": "fa1885b15ea36f98b37ca570ebe14723",
-"/": "fa1885b15ea36f98b37ca570ebe14723",
+"index.html": "c140af9aa744706457c74f31814bef20",
+"/": "c140af9aa744706457c74f31814bef20",
 "manifest.json": "51a91ae769bcfa4c0e4ae1ef64877aea",
 "README.md": "84144f9d0fb421efa9be3d01cfc00f90"
 };
@@ -59,7 +60,6 @@ const RESOURCES = {
 const CORE = [
   "main.dart.js",
 "index.html",
-"assets/NOTICES",
 "assets/AssetManifest.json",
 "assets/FontManifest.json"];
 // During install, the TEMP cache is populated with the application shell files.
@@ -158,9 +158,11 @@ self.addEventListener("fetch", (event) => {
     .then((cache) =>  {
       return cache.match(event.request).then((response) => {
         // Either respond with the cached resource, or perform a fetch and
-        // lazily populate the cache.
+        // lazily populate the cache only if the resource was successfully fetched.
         return response || fetch(event.request).then((response) => {
-          cache.put(event.request, response.clone());
+          if (response && Boolean(response.ok)) {
+            cache.put(event.request, response.clone());
+          }
           return response;
         });
       })

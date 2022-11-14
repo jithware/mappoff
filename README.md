@@ -11,7 +11,7 @@ For Wear OS users, there is a slimmed down [version](https://github.com/jithware
      alt="Get it on The Web"
      height="80">](https://jithware.github.io/mappoff)
      
-*Note the web version has a limited amount of features and can only be used while online. iPhone users can only use the web version at this time.*
+*The web version has a limited amount of features and can only be used while online. iPhone users can only use the web version at this time.*
 
 ## Screenshots
 
@@ -88,6 +88,8 @@ To edit multiple layers, first create multiple [layers](#layers). Ensure the Edi
 
 To cache map tiles for offline use, [edit](#layers) the layer and select the Cache Tiles checkbox. Adjust the Tile Cache Size to the desired amount of tiles to cache. Adjust the Tile Cache Range to modify the range of tiles to cache. For example, a range of 0-25 will cache the first 25% of points and lines in the layer. This allows for higher zoom resolution of the tiles cached. Press the Save button to save changes. Press the Download button to download the tiles.
 
+*Because tiles are stored in the application cache, it is possible the operating system will clear the cache from time to time. You may want to periodically download tiles after a period of time.*
+
 [<img src="./screenshots/android/cache.webp"
      alt="Cache"
      height="400">](./screenshots/android/cache.webp)
@@ -95,7 +97,9 @@ To cache map tiles for offline use, [edit](#layers) the layer and select the Cac
 
 ### Show
 
-To show only points in a Layer, [edit](#layers) the layer and select only the points checkbox. Press the Save button. To show only lines, do the same for the lines checkbox. Note: if this is an editable layer, it will remove the points and/or lines. An edit checkbox will be visisble if the layer is editable.
+To show only points in a Layer, [edit](#layers) the layer and select only the points checkbox. Press the Save button. To show only lines, do the same for the lines checkbox. 
+
+*If this is an editable layer, it will remove the points and/or lines. An edit checkbox will be visble if the layer is editable.*
 
 [<img src="./screenshots/android/show.webp"
      alt="Show"

@@ -94764,7 +94764,7 @@ A.aM(a,B.n,q).toString
 o=A.lB(h,new A.aH("Layers",f),B.kA,h,new A.azK(i,a),!1,h,A.aA("Layers",h,h,h,h,h,h,h,h),h)
 A.aM(a,B.n,q).toString
 n=A.lB(h,new A.aH(g,f),B.OF,h,new A.azL(i,a),!1,h,A.aA(g,h,h,h,h,h,h,h,h),h)
-m=A.aQQ("images/launcher.png")
+m=A.aQQ("images/about.png")
 A.aM(a,B.n,q).toString
 l=i.a.c
 A.aM(a,B.n,q).toString

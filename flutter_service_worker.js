@@ -46,13 +46,13 @@ const RESOURCES = {
 "assets/shaders/ink_sparkle.frag": "2147963e04ef3991e7988a822e50fac3",
 "assets/AssetManifest.json": "1d4f05fbccd641d0551a4988908462df",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/NOTICES": "99ab407e0c479f03bfd6c064f7e10097",
+"assets/NOTICES": "78680cc0ce08f7ee8fc12506b4d1e18b",
 "icons/Icon-192.png": "3db6da041f26a85effda05d3f6a90d25",
 "icons/Icon-512.png": "8fe73e0ca049c2f92643a76fd34f4164",
 "README.md": "65a3bf3964f581f356a40f6be8457f72",
 "favicon.png": "428494e79d329529c7bef3b6d84c576b",
-"index.html": "91394f12a33fb6d30619d4072d1882d1",
-"/": "91394f12a33fb6d30619d4072d1882d1",
+"index.html": "5fa63319a76570b019b5bfab66710358",
+"/": "5fa63319a76570b019b5bfab66710358",
 "manifest.json": "51a91ae769bcfa4c0e4ae1ef64877aea"
 };
 

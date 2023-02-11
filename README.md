@@ -88,7 +88,7 @@ To edit multiple layers, first create multiple [layers](#layers). Ensure the Edi
 
 To cache map tiles for offline use, [edit](#layers) the layer and select the Cache Tiles checkbox. Adjust the Tile Cache Size to the desired amount of tiles to cache. Adjust the Tile Cache Range to modify the range of tiles to cache. For example, a range of 0-25 will cache the first 25% of points and lines in the layer. This allows for higher zoom resolution of the tiles cached. Press the Save button to save changes. Press the Download button to download the tiles.
 
-*Because tiles are stored in the application cache, it is possible the operating system will clear the cache from time to time. You may want to periodically download tiles after a period of time.*
+*Because tiles are stored in the application cache, it is possible the operating system will clear the cache from time to time. You may want to periodically download tiles after a period of time. If you uninstall the application, the application cache will be cleared.*
 
 [<img src="./screenshots/android/cache.webp"
      alt="Cache"

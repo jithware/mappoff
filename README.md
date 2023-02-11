@@ -84,6 +84,14 @@ To edit multiple layers, first create multiple [layers](#layers). Ensure the Edi
      alt="Edit"
      height="400">](./screenshots/android/edit.webp)
 
+### Open
+
+To open a layer, first download a kml or kmz file. Press Layers from the menu. From the Layers screen, press the Add button. Press the Open File button and select the kml or kmz file you downloaded. Press the Add button again.
+
+[<img src="./screenshots/android/open.webp"
+     alt="Open"
+     height="400">](./screenshots/android/open.webp)
+
 ### Cache
 
 To cache map tiles for offline use, [edit](#layers) the layer and select the Cache Tiles checkbox. Adjust the Tile Cache Size to the desired amount of tiles to cache. Adjust the Tile Cache Range to modify the range of tiles to cache. For example, a range of 0-25 will cache the first 25% of points and lines in the layer. This allows for higher zoom resolution of the tiles cached. Press the Save button to save changes. Press the Download button to download the tiles.

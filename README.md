@@ -86,11 +86,19 @@ To edit multiple layers, first create multiple [layers](#layers). Ensure the Edi
 
 ### Open
 
-To open a layer, first download a kml or kmz file. Press Layers from the menu. From the Layers screen, press the Add button. Press the Open File button and select the kml or kmz file you downloaded. Press the Add button again.
+To open a local layer, first download a kml or kmz file. Press Layers from the menu. From the Layers screen, press the Add button. Press the Open File button and select the kml or kmz file you downloaded. Press the Add button again.
 
 [<img src="./screenshots/android/open.webp"
      alt="Open"
      height="400">](./screenshots/android/open.webp)
+
+### Network
+
+To open a network layer, first locate the url of a kml or kmz file. Copy the kml or kmz url to the clipboard. Press Layers from the menu. From the Layers screen, press the Add button. Paste the url in the URI field. Press the Add button again.
+
+[<img src="./screenshots/android/network.webp"
+     alt="Network"
+     height="400">](./screenshots/android/network.webp)
 
 ### Cache
 

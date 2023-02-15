@@ -94,7 +94,7 @@ To open a local layer, first download a kml or kmz file. Press Layers from the m
 
 ### Network
 
-To open a network layer, first locate the url of a kml or kmz file. Copy the kml or kmz url to the clipboard. Press Layers from the menu. From the Layers screen, press the Add button. Paste the url in the URI field. Press the Add button again.
+To open a network layer, first locate the url of a kml or kmz file. Copy the kml or kmz url to the clipboard. Press Layers from the menu. From the Layers screen, press the Add button. Paste the url in the URI field. Press the Add button again. An advantage of using a network layer is that upon refresh, the layer will be up to date with the most recent kml version.
 
 [<img src="./screenshots/android/network.webp"
      alt="Network"

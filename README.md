@@ -131,7 +131,7 @@ To start tracking, press the Track button. Select the Allow all the time permiss
 
 ### Presets
 
-To load a preset layer, press Layers from the menu. From the Layers screen, press the Presets button. Press the preset you would like to load. Disable other layers if desired. Press the layer to view the preset placemarks. Press a placemark to jump to the placemark on the map.
+To load a preset layer, press Layers from the menu. From the Layers screen, press the Presets button. Press the layer icon to view a thumbnail. Press the preset you would like to load. Press the layer to view the preset placemarks. Press a placemark to jump to the placemark on the map.
 
 [<img src="./screenshots/android/presets.webp"
      alt="Presets"

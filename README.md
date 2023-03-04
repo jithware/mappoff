@@ -11,11 +11,11 @@ For Wear OS users, there is a slimmed down [version](https://github.com/jithware
      alt="Get it on The Web"
      height="80">](https://jithware.github.io/mappoff)
      
-*The web version has a limited amount of features and can only be used while online. iPhone users can only use the web version at this time.*
+*The web version has a limited amount of features and can only be used while online. iOS/macOS users can only use the [unsupported](https://github.com/jithware/brethap/discussions/95) web version at this time.*
 
 ## Screenshots
 
-![feature](./images/feature.png)
+![feature](./images/featureGraphic.png)
 
 ## Usage
 

@@ -131,7 +131,7 @@ To start tracking, press the Track button. Select allow to run in background. Ad
 
 ### Navigation
 
-To start navigating, press the Navigate button. To stop navigating, press the Navigate button again.
+To start navigation view, press the Navigate button. To stop navigation view, press the Navigate button again.
 
 [<img src="./screenshots/android/navigation.webp"
      alt="Navigation"

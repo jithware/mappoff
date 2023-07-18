@@ -21,16 +21,16 @@ For Wear OS users, there is a slimmed down [version](https://github.com/jithware
 
 <table>
      <tr>
-          <td><img src="./screenshots/android/1_home.png" alt="Home" height="400"></td>
-          <td><img src="./screenshots/android/2_drawer.png" alt="Drawer" height="400"></td>
-          <td><img src="./screenshots/android/3_layers.png" alt="Layers" height="400"></td>
-          <td><img src="./screenshots/android/4_layer.png" alt="Layer" height="400"></td>
+          <td><img src="./screenshots/android/1_home.png" alt="Home" height="350"></td>
+          <td><img src="./screenshots/android/2_drawer.png" alt="Drawer" height="350"></td>
+          <td><img src="./screenshots/android/3_layers.png" alt="Layers" height="350"></td>
+          <td><img src="./screenshots/android/4_layer.png" alt="Layer" height="350"></td>
      </tr> 
      <tr>
-          <td><img src="./screenshots/android/5_placemarks.png" alt="Placemarks" height="400"></td>
-          <td><img src="./screenshots/android/6_share.png" alt="Share" height="400"></td>
-          <td><img src="./screenshots/android/7_preferences.png" alt="Preferences" height="400"></td>
-          <td><img src="./screenshots/android/8_presets.png" alt="Presets" height="400"></td>
+          <td><img src="./screenshots/android/5_placemarks.png" alt="Placemarks" height="350"></td>
+          <td><img src="./screenshots/android/6_share.png" alt="Share" height="350"></td>
+          <td><img src="./screenshots/android/7_preferences.png" alt="Preferences" height="350"></td>
+          <td><img src="./screenshots/android/8_presets.png" alt="Presets" height="350"></td>
      </tr> 
 </table>
 

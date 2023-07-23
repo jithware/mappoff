@@ -97,6 +97,12 @@ To open a network layer, first locate the url of a kml or kmz file. Copy the kml
 
 <img src="./screenshots/android/network.webp" alt="Network" height="400">
 
+### Import
+
+To import a gpx layer, first download a gpx file (shown is gpx downloaded from the [ACA](https://www.adventurecycling.org/cyclosource-store/route-maps/gpx-data/)). Press Layers from the menu. From the Layers screen, press the Add button. Press the Open File button and select the gpx file you downloaded. Select Add icons to use Mappoff icons for points. Press the Add button again.
+
+<img src="./screenshots/android/import.webp" alt="Import" height="400">
+
 ### Cache
 
 To cache map tiles for offline use, [edit](#layers) the layer and select the Cache Tiles checkbox. Adjust the Tile Cache Size to the desired amount of tiles to cache. Adjust the Tile Cache Range to modify the range of tiles to cache. For example, a range of 0-25 will cache the first 25% of points and lines in the layer. This allows for higher zoom resolution of the tiles cached. Press the Save button to save changes. Press the Download button to download the tiles.

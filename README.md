@@ -99,7 +99,7 @@ To open a network layer, first locate the url of a kml or kmz file. Copy the kml
 
 ### Import
 
-To import a gpx layer, first download a gpx file (shown is gpx downloaded from the [ACA](https://www.adventurecycling.org/cyclosource-store/route-maps/gpx-data/)). Press Layers from the menu. From the Layers screen, press the Add button. Press the Open File button and select the gpx file you downloaded. Select Add icons to use Mappoff icons for points. Press the Add button again.
+To import a gpx layer, first download a gpx file (shown is gpx downloaded from the [ACA](https://www.adventurecycling.org/cyclosource-store/route-maps/gpx-data/)). Press Layers from the menu. From the Layers screen, press the Add button. Press the Open File button and select the gpx file you downloaded. Select Add icons to use Mappoff [icons](https://github.com/jithware/mappoff/tree/web/assets/icons) for points. Press the Add button again.
 
 <img src="./screenshots/android/import.webp" alt="Import" height="400">
 

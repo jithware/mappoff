@@ -103,6 +103,14 @@ To import a gpx layer, first download a gpx file (shown is gpx downloaded from t
 
 <img src="./screenshots/android/import.webp" alt="Import" height="400">
 
+### Add
+
+To add files to a layer, first create a new [layer](#layers). Edit the layer and select the Add Files button. Select files you wish to add. Press the Save button.
+
+*The currently supported add file extensions are: kmz,kml,gpx,jpg. Other file extensions will be ignored. Jpg files must have embedded gps data to be added.*
+
+<img src="./screenshots/android/add.webp" alt="Add" height="400">
+
 ### Cache
 
 To cache map tiles for offline use, [edit](#layers) the layer and select the Cache Tiles checkbox. Adjust the Tile Cache Size to the desired amount of tiles to cache. Adjust the Tile Cache Range to modify the range of tiles to cache. For example, a range of 0-25 will cache the first 25% of points and lines in the layer. This allows for higher zoom resolution of the tiles cached. Press the Save button to save changes. Press the Download button to download the tiles.

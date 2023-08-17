@@ -1,6 +1,6 @@
 # Mappoff
 
-Mappoff was created for and maintained by hikers and bikepackers. Because it is often neccesary to do MAPPing OFFline when in remote areas, Mappoff allows you to save map layers and tiles for later offline use. Additionally you can create your own waypoints or enable tracking to save routes. There are several [preset](#presets) layers including the [PCT Water Report](https://www.google.com/maps/d/viewer?mid=1UtogyvQzegPXZYLARMCTwckZTRxIOOLf), the Appalachian Trail, the Continental Divide Trail, the Pacific Crest Trail, among others.
+Mappoff was created for and maintained by hikers and bikepackers. Because it is often necessary to do MAPPing OFFline when in remote areas, Mappoff allows you to save map layers and tiles for later offline use. Additionally you can create your own waypoints or enable tracking to save routes. There are several [preset](#presets) layers including the [PCT Water Report](https://www.google.com/maps/d/viewer?mid=1UtogyvQzegPXZYLARMCTwckZTRxIOOLf), the Appalachian Trail, the Continental Divide Trail, the Pacific Crest Trail, among others.
 
 For Wear OS users, there is a slimmed down [version](https://github.com/jithware/mappoff_wear#mappoff-wear) available as well.
 
@@ -99,7 +99,7 @@ To open a network layer, first locate the url of a kml or kmz file. Copy the kml
 
 ### Import
 
-To import a gpx layer, first download a gpx file (shown is gpx downloaded from the [ACA](https://www.adventurecycling.org/cyclosource-store/route-maps/gpx-data/)). Press Layers from the menu. From the Layers screen, press the Add button. Press the Open File button and select the gpx file you downloaded. Select Add icons to use Mappoff [icons](https://github.com/jithware/mappoff/tree/web/assets/icons) for points. Press the Add button again.
+To import a gpx layer, first download a gpx file (shown is a gpx downloaded from the [EDT](https://bikepacking.com/routes/edt3/)). Press Layers from the menu. From the Layers screen, press the Add button. Press the Open File button and select the gpx file you downloaded. Select Add icons to use Mappoff [icons](https://github.com/jithware/mappoff/tree/web/assets/icons) for points. Press the Add button again.
 
 <img src="./screenshots/android/import.webp" alt="Import" height="400">
 
@@ -107,7 +107,7 @@ To import a gpx layer, first download a gpx file (shown is gpx downloaded from t
 
 To add files to a layer, first create a new [layer](#layers). Edit the layer and select the Add Files button. Select files you wish to add. Press the Save button.
 
-*The currently supported add file extensions are: kmz,kml,gpx,jpg. Other file extensions will be ignored. Jpg files must have embedded gps data to be added.*
+*The currently supported add file extensions are: kmz,kml,gpx,jpg,csv. Other file extensions will be ignored. Jpg files must have embedded gps data to be added.*
 
 <img src="./screenshots/android/add.webp" alt="Add" height="400">
 
@@ -123,7 +123,7 @@ To cache map tiles for offline use, [edit](#layers) the layer and select the Cac
 
 To show only points in a Layer, [edit](#layers) the layer and select only the points checkbox. Press the Save button. To show only lines, do the same for the lines checkbox. 
 
-*If this is an editable layer, it will remove the points and/or lines. An edit checkbox will be visble if the layer is editable.*
+*If this is an editable layer, it will remove the points and/or lines. An edit checkbox will be visible if the layer is editable.*
 
 <img src="./screenshots/android/show.webp" alt="Show" height="400">
 
@@ -162,7 +162,15 @@ To export a layer, first create a new [layer](#layers). Edit the layer and selec
 To share a placemark, long press the placemark. Press the Share button. Edit the desired fields. Press the Send button. Choose the desired method of sharing. Update who to share with. Send the message. An advantage to using email as the share method is that when you are offline, your email client should queue up your messages and send them once you return online. See this [video](https://youtu.be/cBffu9NST_M) for an additional sharing demo.
 
 <img src="./screenshots/android/share.webp" alt="Share" height="400">
-     
+
+### IPFS
+
+To share a layer to the InterPlanetary File System ([IPFS](https://ipfs.tech/)), long press the layer and select the Share button. Press IPFS Upload. To share the IPFS layer to other Mappoff users, select IPFS URL and send the [URL](https://en.wikipedia.org/wiki/URL) to them or for users in person, select IPFS QR to scan the [QR code](https://en.wikipedia.org/wiki/QR_code). Users can paste the URL as a new [network](#network) layer. It may take some time for the IPFS file to be propagated to IPFS [gateways](https://docs.ipfs.tech/concepts/ipfs-gateway/). When editing a layer with IPFS, you must also update the IPFS file by selecting IPFS Update and then re-share the URL because IPFS files are [immutable](https://docs.ipfs.tech/concepts/immutability/). To over come this, [IPNS](https://docs.ipfs.tech/concepts/ipns/) could be implemented into Mappoff, however there is currently no [dart implementation](https://github.com/web3-storage/w3name/issues/102) at this time.
+ 
+*Uploading the layer to the IPFS will make it publicly available to anyone. Any layer information, including locations, images, descriptions, etc.. will be available indefinitely, even after removing the layer.*
+
+<img src="./screenshots/android/ipfs.webp" alt="Share" height="400">
+   
 ## Donate
 
 Donate to the project's maintainer [@jithware](https://github.com/jithware)

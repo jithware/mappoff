@@ -167,7 +167,7 @@ To share a placemark, long press the placemark. Press the Share button. Edit the
 
 To share a layer to the InterPlanetary File System ([IPFS](https://ipfs.tech/)), long press the layer and select the Share button. Press IPFS Upload. To share the IPFS layer to other Mappoff users, select IPFS URL and send the [URL](https://en.wikipedia.org/wiki/URL) to them or for users in person, select IPFS QR to scan the [QR code](https://en.wikipedia.org/wiki/QR_code). Users can paste the URL as a new [network](#network) layer. It may take some time for the IPFS file to be propagated to IPFS [gateways](https://docs.ipfs.tech/concepts/ipfs-gateway/). When editing a layer with IPFS, you must also update the IPFS file by selecting IPFS Update and then re-share the URL because IPFS files are [immutable](https://docs.ipfs.tech/concepts/immutability/). To over come this, use [IPNS](#ipns) below to create a link to the latest IPFS file.
  
-*Uploading the layer to the IPFS will make it publicly available to anyone. Any layer information, including locations, images, descriptions, etc.. will be available indefinitely, even after removing the layer.*
+*Uploading the layer to the IPFS will make it publicly available to anyone. Any layer information, including locations, images, descriptions, etc.. will be available indefinitely, even after removing the layer. You must be online to upload to IPFS.*
 
 <img src="./screenshots/android/ipfs.webp" alt="Share" height="400">
 
@@ -175,7 +175,9 @@ To share a layer to the InterPlanetary File System ([IPFS](https://ipfs.tech/)),
 
 To create a link to the latest IPFS file using the InterPlanetary Name System ([IPNS](https://docs.ipfs.tech/concepts/ipns/)), first share the layer via [IPFS](#ipfs). Select IPNS Add. Select IPNS URL or IPNS QR to share a link to the latest IPFS file. When updating a layer you must also update IPFS by selecting IPFS Update if you wish to share the update. The IPNS link will automatically point to the latest update. IPNS updates take about 5 minutes to propagate. You can force a network layer fetch by disabling and enabling the layer. To remove the link, select IPNS Remove. This will invalidate the link for all users.
 
-*In summary, share with IPFS if your layer is static and will not have any updates. Share with IPNS if your layer will be updated and you wish to provide an easy way for users to access the updates*
+*You must be online to add or remove to IPNS.*
+
+*In summary, share with IPFS if your layer is static and will not have any updates. Share with IPNS if your layer will be updated and you wish to provide an direct way for users to access the latest modified layer.* 
 
 <img src="./screenshots/android/ipns.webp" alt="Share" height="400">
    

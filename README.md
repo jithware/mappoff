@@ -165,8 +165,14 @@ To share a placemark, long press the placemark. Press the Share button. Edit the
 
 ### IPFS
 
-*In progress...*
-   
+To share an update of a trail report with other Mappoff users via [IPFS](https://ipfs.tech/), first open the trail report layer in [presets](#presets). If you wish to add placemarks, you must also open the associated centerline with the trail report. First create a [placemark](#placemark). Long press the placemark and add it to the staging layer from the share button. The staging layer allows you to add and update placemarks while you are offline. Once online, upload the staging layer to IPFS. You may also remove a specific update by swiping it before uploading. It can take several minutes for updates to be propagated to the trail report. To update a placemark, long press the placemark and select update from the share button. Update the desired fields. When updating water info, the icon will change based on the update. Upload the staging layer to IPFS. To view detail info on the placemark, long press it.
+
+*Uploading the layer to the IPFS will make it publicly available to anyone. Any layer information, including locations, images, descriptions, etc.. will be available indefinitely, even after removing the layer. You must be online to upload to IPFS.*
+
+*Any trail report preset marked as (Test) is a testing area for adding and editing fictitious placemarks. Feel free to use this as playground to try it out without having to alter the true report. The testing area will periodically be purged.*
+
+<img src="./screenshots/android/ipfs.webp" alt="Share" height="400">
+
 ## Donate
 
 Donate to the project's maintainer [@jithware](https://github.com/jithware)

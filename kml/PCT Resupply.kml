@@ -7,7 +7,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>icons/hiking.png</href>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/hiking.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -15,7 +15,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>icons/water.png</href>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/water.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -23,7 +23,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>icons/water-drop.png</href>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/water-drop.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -31,7 +31,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>icons/info.png</href>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/info.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -39,7 +39,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>icons/shopping-basket.png</href>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/shopping-basket.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -47,7 +47,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>icons/bus.png</href>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/bus.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -55,7 +55,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>icons/hotel.png</href>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/hotel.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -63,7 +63,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>icons/camping.png</href>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/camping.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -71,7 +71,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>icons/terrain.png</href>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/terrain.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -79,7 +79,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>icons/restaurant.png</href>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/restaurant.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -87,7 +87,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>icons/local-post-office.png</href>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/local-post-office.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -95,7 +95,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>icons/hostel.png</href>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/hostel.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -103,7 +103,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>icons/shopping-cart.png</href>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/shopping-cart.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -111,7 +111,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>icons/shelter.png</href>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/shelter.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -119,7 +119,7 @@
       <IconStyle>
         <scale>1</scale>
         <Icon>
-          <href>icons/gear.png</href>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/gear.png</href>
         </Icon>
       </IconStyle>
     </Style>

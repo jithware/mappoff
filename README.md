@@ -1,6 +1,6 @@
 # Mappoff
 
-Mappoff was created for and maintained by hikers and bikepackers. Because it is often necessary to do MAPPing OFFline when in remote areas, Mappoff allows you to save map layers and tiles for later offline use. Additionally you can create your own waypoints or enable tracking to save routes. There are several [preset](#presets) layers including the [PCT Water Report](https://www.google.com/maps/d/viewer?mid=1UtogyvQzegPXZYLARMCTwckZTRxIOOLf), the Appalachian Trail, the Continental Divide Trail, the Pacific Crest Trail, among [others](https://www.google.com/maps/d/viewer?mid=1Cog34VylKSuE7mFmcVLyMgQzaV9PCDc).
+Mappoff was created for and maintained by hikers and bikepackers. Because it is often necessary to do MAPPing OFFline when in remote areas, Mappoff allows you to save map layers and tiles for later offline use. Additionally you can create your own waypoints or enable tracking to save routes. There are several [preset](#presets) layers including the [PCT Water Report](https://www.google.com/maps/d/viewer?mid=1UtogyvQzegPXZYLARMCTwckZTRxIOOLf), the Appalachian Trail, the Continental Divide Trail, the Pacific Crest Trail, among [others](https://jithware.github.io/mappoff/?x=-121.0&y=41.5&z=5&uris=asset://kml/pacific-crest-trail-simplified.kml,https://www.google.com/maps/d/kml%3Fmid=1Cog34VylKSuE7mFmcVLyMgQzaV9PCDc%26lid=6BQM66ivIyw).
 
 For Wear OS users, there is a slimmed down [version](https://github.com/jithware/mappoff_wear#mappoff-wear) available as well.
 

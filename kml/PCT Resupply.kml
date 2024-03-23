@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" creator="mappoff">
+  <Document>
+    <name>PCT Resupply</name>
+    <description>Pacific Crest Trail resupply, food and package pick up locations.</description> 
+    <Style id="mappoff-icon-trail">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/hiking.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="mappoff-icon-water">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/water.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="mappoff-icon-waterfull">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/water-drop.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="mappoff-icon-info">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/info.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="mappoff-icon-market">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/shopping-basket.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="mappoff-icon-shuttle">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/bus.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="mappoff-icon-hotel">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/hotel.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="mappoff-icon-camp">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/camping.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="mappoff-icon-mountain">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/terrain.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="mappoff-icon-food">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/restaurant.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="mappoff-icon-postoffice">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/local-post-office.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="mappoff-icon-hostel">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/hostel.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="mappoff-icon-grocery">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/shopping-cart.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="mappoff-icon-shelter">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/shelter.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="mappoff-icon-gear">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>https://raw.githubusercontent.com/jithware/mappoff/web/assets/icons/gear.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name>Campo Green Store and Deli</name>
+      <description><![CDATA[Monday to Sunday: 8:00 AM – 8:00 PM
+
+<a href="https://www.campogreenstore.com/">campogreenstore.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -116.4744556,32.6084206,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 8:30 am-11:30 am, 12:30 pm-4:30 pm
+Sat 9:30 am-12:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+CAMPO, CA 91906-9998
+
+<a href="https://tools.usps.com/find-location.htm?location=1356807">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -116.4708073,32.6073191,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oak Shores Malt Shop</name>
+      <description><![CDATA[Mon-Sun:	7:00 AM - 9:00 PM
+
+<a href="https://oak-shores-malt-shop.business.site/">oak-shores-malt-shop.business.site</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -116.512148,32.680233,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laguna Mountain Lodge</name>
+      <description><![CDATA[Mon-Sun: 9:00 AM - 5:00 PM
+
+<a href="https://lagunamountain.com/">lagunamountain.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -116.41932,32.867138,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stagecoach Trails RV Resort</name>
+      <description><![CDATA[Tue-Sat: 9:00AM - 5:00PM
+
+<a href="https://www.stagecoachtrails.com/">stagecoachtrails.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -116.424884,33.060279,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jack's Grocery</name>
+      <description><![CDATA[Resupplied on 2024-03-19 16:11:45 at 33.0781, -116.6020]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -116.6020048,33.0781175,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Julian Market and Deli</name>
+      <description><![CDATA[Camped on 2024-03-19 16:40:39 at 33.0787, -116.6025]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -116.6024649,33.0787236,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mom's Pie House - Julian</name>
+      <description><![CDATA[Mon-Sun: 8:00 AM - 5:00 PM
+
+<a href="https://momspiesjulian.com/">momspiesjulian.com</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -116.602098,33.0781747,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 9:00 am-4:00 pm
+Sat 10:00 am-12:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+JULIAN, CA 92036-9998
+
+<a href="https://tools.usps.com/find-location.htm?location=1368589">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -116.5980586,33.0761787,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ranchita BODEGA</name>
+      <description><![CDATA[Mon-Sun: 9:00 AM - 5:00 PM
+
+<a href="https://oshunsorchard.com/pacific-crest-trail/">oshunsorchard.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -116.521394,33.2105741,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Warner Springs Community Resource Center</name>
+      <description><![CDATA[Monday – Friday 3 – 7 pm (DO NOT ENTER OUTSIDE THESE HOURS)
+Weekends 8 a.m. to 7 p.m.
+
+<a href="https://sites.google.com/view/warnerspringscenter/pacific-crest-trail/thru-hikers">sites.google.com</a>]]></description>
+      <styleUrl>#mappoff-icon-info</styleUrl>
+      <Point>
+        <coordinates>
+          -116.645023,33.274397,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Warner Springs Ranch</name>
+      <description><![CDATA[Open Daily 8AM to 6PM
+
+<a href="https://warnerspringsranchresort.com/general-store-gas-mart">warnerspringsranchresort.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -116.634583,33.283219,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 8:00 am-11:00 am, 11:30 am-4:00 pm
+Sat 8:00 am-1:30 pm
+
+[Your Name]
+GENERAL DELIVERY
+WARNER SPRINGS, CA 92086-9998
+
+<a href="https://tools.usps.com/find-location.htm?location=1386415">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -116.6348371,33.283528,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sunshine Market</name>
+      <description><![CDATA[<a href="https://sunshine-market-anza.edan.io/">sunshine-market-anza.edan.io</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -116.6301985,33.5185555,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Paradise Valley Cafe</name>
+      <description><![CDATA[SUN-TUE: 8:00 AM – 3:00 PM
+WED-SAT: 8:00 AM – 8:00 PM
+
+[Your Name]
+c/o Paradise Valley Cafe
+61721 State Highway 74
+Mountain Center, CA 92561
+
+<a href="https://theparadisevalleycafe.com/">theparadisevalleycafe.com</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -116.591367,33.569026,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lake Hemet Market</name>
+      <description><![CDATA[Friday through Sunday: 7am - 5pm
+Monday through Thursday: 8am - 5pm
+
+<a href="https://www.golakehemet.com/shopeat">golakehemet.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -116.6744727,33.6695783,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fairway Market</name>
+      <description><![CDATA[Monday - Friday 9am - 8pm
+Saturday 9am - 8pm
+Sunday 9am - 7pm
+
+<a href="https://fairwayfoods.net/">fairwayfoods.net/</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -116.714193,33.743581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Idyllwild Village Market</name>
+      <description></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -116.714277,33.745981,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 9:00 am-5:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+IDYLLWILD, CA 92549-9997
+
+<a href="https://tools.usps.com/find-location.htm?location=1367836">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -116.7133858,33.7436562,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dollar General</name>
+      <description><![CDATA[Mon-Sun: 8:00 am - 10:00 pm
+
+<a href="https://www.dollargeneral.com/store-directory/ca/cabazon/17975">dollargeneral.com</a>]]></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -116.7799039,33.917818,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 8:30 am-11:30 am, 12:45 pm-4:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+CABAZON, CA 92230-9998
+
+<a href="https://tools.usps.com/find-location.htm?location=1356551">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -116.7832759,33.9175478,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>In-N-Out Burger</name>
+      <description><![CDATA[Sunday - Thursday 10:30 a.m. - 1:00 a.m.
+Friday - Saturday 10:30 a.m. - 1:30 a.m.
+
+<a href="https://locations.in-n-out.com/292">in-n-out.com</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -116.803643,33.921372,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Transportation</name>
+      <description><![CDATA[<a href="https://maps.app.goo.gl/4reumTXWLS5BFY1U6">Big Bear Lake</a>]]></description>
+      <styleUrl>#mappoff-icon-shuttle</styleUrl>
+      <Point>
+        <coordinates>
+          -116.843475,34.2715659,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Community Market</name>
+      <description></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -116.845397,34.260964,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 9:00 am-4:30 pm
+
+[Your Name]
+GENERAL DELIVERY
+BIG BEAR CITY, CA 92314-9998
+
+<a href="https://tools.usps.com/find-location.htm?location=1354894">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -116.8466494,34.2613933,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vons</name>
+      <description><![CDATA[Mon-Sun: 6:00 AM - 11:00 PM
+
+<a href="https://local.vons.com/ca/big-bear-lake/42170-big-bear-blvd.html">local.vons.com</a>]]></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -116.884981,34.252412,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 10:00 am-12:30 pm, 1:30 pm-4:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+BIG BEAR LAKE, CA 92315-1518
+
+<a href="https://tools.usps.com/find-location.htm?location=1483716">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -116.8855433,34.2513591,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cedar Glen Malt Shop</name>
+      <description><![CDATA[Ate on 2024-03-19 16:18:17 at 34.2539, -117.1678]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -117.1678369,34.2538803,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stater Bros. Markets</name>
+      <description><![CDATA[MON-SUN 6 AM – 11 PM
+
+<a href="https://www.staterbros.com/stores/92/">staterbros.com</a>]]></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -117.1905317,34.2505226,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Joshua Inn Bar & Deli</name>
+      <description><![CDATA[<a href="https://joshua-inn.business.site/">joshua-inn.business.site</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -117.2485437,34.3642534,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>McDonald's</name>
+      <description><![CDATA[Mon-Thu 05:00 AM to 08:00 PM
+Fri-Sun 05:00 AM to 11:00 PM
+
+<a href="https://www.mcdonalds.com/us/en-us/location/CA/PHELAN/3230-WAGON-TRAIN-RD/15250.html">mcdonalds.com</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -117.470479,34.30906,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chevron</name>
+      <description><![CDATA[Resupplied on 2024-03-19 16:18:38 at 34.3095, -117.4709]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -117.470945,34.309471,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Wrightwood Fine Foods</name>
+      <description><![CDATA[Resupplied on 2024-03-19 16:18:43 at 34.3610, -117.6320]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -117.6319786,34.361021,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 8:45 am-5:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+WRIGHTWOOD, CA 92397-9998
+
+<a href="https://tools.usps.com/find-location.htm?location=1388352">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -117.6304526,34.3602292,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LA RV Resort</name>
+      <description><![CDATA[<a href="https://larvresort.com/">larvresort.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -118.26586,34.437893,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>The Original Acton Market</name>
+      <description><![CDATA[<a href="https://www.theoriginalactonmarket.com/">theoriginalactonmarket.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -118.196383,34.467727,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maria Bonita Mexican Restaurant</name>
+      <description><![CDATA[Mon-Sun: 11:00 AM – 9:00 PM
+
+<a href="https://lomyu.com/en-view.php?seo=maria-bonita-mexican-restaurant-318465">lomyu.com</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -118.326733,34.494876,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 8:00 am-12:30 pm, 1:30 pm-5:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+LAKE HUGHES, CA 93532-9998
+
+<a href="https://tools.usps.com/find-location.htm?location=1369595">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -118.4293418,34.673215,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hikertown</name>
+      <description><![CDATA[[Your Name]
+c/o Hikertown
+26803 W. Ave. C-15
+Lancaster, CA 93536]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -118.6057232,34.7759039,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Neenach Cafe & Market</name>
+      <description></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -118.53612,34.774924,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Transportation </name>
+      <description><![CDATA[<a href="https://maps.app.goo.gl/jmYFGrVbzByYrpr5A">Tehachapi</a>]]></description>
+      <styleUrl>#mappoff-icon-shuttle</styleUrl>
+      <Point>
+        <coordinates>
+          -118.292148,35.100159,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Walmart Supercenter</name>
+      <description><![CDATA[Mon - Sun | 6am - 11pm
+
+<a href="https://www.walmart.com/store/4317-tehachapi-ca">walmart.com</a>]]></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -118.465757,35.129514,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Post Office Tehachapi</name>
+      <description><![CDATA[Mon-Fri 9:00 am-5:00 pm
+Sat 10:00 am-2:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+TEHACHAPI, CA 93561-9998
+
+<a href="https://tools.usps.com/find-location.htm?location=1384371">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -118.4527511,35.1447219,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Transportation</name>
+      <description><![CDATA[<a href="https://maps.app.goo.gl/SKcHpuEvdBCXK4tW6">Ridgecrest</a>
+
+<a href="https://maps.app.goo.gl/rfoKcvaFgrNYVwSo6">Kernville</a>]]></description>
+      <styleUrl>#mappoff-icon-shuttle</styleUrl>
+      <Point>
+        <coordinates>
+          -118.027052,35.662926,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Walmart Supercenter</name>
+      <description><![CDATA[Mon - Sun | 6am - 11pm
+
+<a href="https://www.walmart.com/store/1600-ridgecrest-ca">walmart.com</a>]]></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -117.667135,35.606702,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dollar General</name>
+      <description><![CDATA[Mon-Sun 8:00 am - 9:00 pm
+
+<a href="https://www.dollargeneral.com/store-directory/ca/inyokern/15007">dollargeneral.com</a>]]></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -117.818458,35.645581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 11:00 am-4:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+INYOKERN, CA 93527-9997
+
+<a href="https://tools.usps.com/find-location.htm?location=1367992">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -117.8126246,35.6460544,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 9:00 am-12:00 pm, 1:00 pm-4:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+ONYX, CA 93255-9998
+
+<a href="https://tools.usps.com/find-location.htm?location=1376174">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -118.2240225,35.6924239,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grocery Outlet</name>
+      <description><![CDATA[<a href="https://www.groceryoutlet.com/circulars/storeid/417">groceryoutlet.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -118.4741214,35.6293533,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sierra Gateway Market</name>
+      <description></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -118.418889,35.758056,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kennedy Meadows General Store</name>
+      <description><![CDATA[Everyday 9 am - 5 pm
+
+<a href="https://www.kennedymeadowsgeneralstore.com/home">kennedymeadowsgeneralstore.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -118.123295,36.019042,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Triple Crown Outfitters</name>
+      <description><![CDATA[open 9am - 5pm
+
+<a href="https://www.triplecrownoutfitters.com/">triplecrownoutfitters.com</a>]]></description>
+      <styleUrl>#mappoff-icon-gear</styleUrl>
+      <Point>
+        <coordinates>
+          -118.0987893,35.9896428,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grumpy Bears Retreat</name>
+      <description><![CDATA[(Your Name)
+c/o Grumpy Bear's Retreat
+98887 Kennedy Meadows Road
+Inyokern, CA 93527]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -118.100301,35.990157,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lone Pine Market</name>
+      <description></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -118.063525,36.605339,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Transportation</name>
+      <description><![CDATA[<a href="https://maps.app.goo.gl/gn8UzB8qwT7TeuYf6">Bishop</a>]]></description>
+      <styleUrl>#mappoff-icon-shuttle</styleUrl>
+      <Point>
+        <coordinates>
+          -118.062429,36.602419,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 9:30 am-12:30 pm, 1:30 pm-4:30 pm
+
+[Your Name]
+GENERAL DELIVERY
+LONE PINE, CA 93545-9997
+
+<a href="https://tools.usps.com/find-location.htm?location=1370844">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -118.0632026,36.606695,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Valero</name>
+      <description><![CDATA[Resupplied on 2024-03-19 16:20:12 at 36.8019, -118.1991]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -118.199091,36.801904,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 9:00 am-4:00 pm
+Sat 9:00 am-1:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+BISHOP, CA 93514-9998
+
+<a href="https://tools.usps.com/find-location.htm?location=1355026">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -118.4003923,37.3615943,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vons</name>
+      <description><![CDATA[Mon-Sun 6:00 AM - 11:00 PM
+
+<a href="https://local.vons.com/ca/bishop/1190-n-main-st.html">local.vons.com</a>]]></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -118.391578,37.373502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vermilion Valley Resort</name>
+      <description><![CDATA[<a href="https://vvr.place/">vvr.place</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -119.012659,37.376241,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Transportation</name>
+      <description><![CDATA[9:45 AM and 4:45 PM
+
+<a href="https://vvr.place/hikers/ferry/">Hiker's Water Taxi</a>]]></description>
+      <styleUrl>#mappoff-icon-shuttle</styleUrl>
+      <Point>
+        <coordinates>
+          -118.9432186,37.4038721,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Red's Meadow Resort</name>
+      <description><![CDATA[<a href="https://www.redsmeadow.com/">redsmeadow.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -119.075135,37.614791,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Transportation</name>
+      <description><![CDATA[<a href="https://www.estransit.com/routes-schedule/seasonal/reds-meadow-shuttle/">Mammoth Mountain Main Lodge</a>]]></description>
+      <styleUrl>#mappoff-icon-shuttle</styleUrl>
+      <Point>
+        <coordinates>
+          -119.0748809,37.6144754,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Transportation</name>
+      <description><![CDATA[<a href="https://maps.app.goo.gl/D9RV8md3yA2tjaAj9">Mammoth Lakes</a>]]></description>
+      <styleUrl>#mappoff-icon-shuttle</styleUrl>
+      <Point>
+        <coordinates>
+          -119.0375758,37.6511181,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vons</name>
+      <description><![CDATA[Open 24 Hours
+
+<a href="https://local.vons.com/ca/mammoth-lakes/481-old-mammoth-rd.html">local.vons.com</a>]]></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -118.965261,37.638861,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 8:00 am-4:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+MAMMOTH LAKES, CA 93546-9997
+
+<a href="https://tools.usps.com/find-location.htm?location=1371581">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -118.9709044,37.6489915,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kennedy Meadows Resort</name>
+      <description><![CDATA[<a href="https://kennedymeadows.com/sonoraPCThikers.html">kennedymeadows.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -119.746002,38.311409,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Echo Chalet</name>
+      <description><![CDATA[STORE HOURS ARE 9 AM – 5 PM
+
+<a href="https://www.echochalet.net/about/">echochalet.net</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -120.0440358,38.8350401,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Donner Ski Ranch</name>
+      <description><![CDATA[OPEN DAILY FROM 8AM
+
+<a href="https://www.donnerskiranch.com/old40">donnerskiranch.com</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -120.3301365,39.3181619,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Safeway</name>
+      <description><![CDATA[Open 24 Hours
+
+<a href="https://local.safeway.com/safeway/ca/south-lake-tahoe/1020-johnson-ln.html">local.safeway.com</a>]]></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -119.967337,38.943972,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Soda Springs General Store</name>
+      <description><![CDATA[Open Every Day 8AM - 7PM
+
+<a href="https://sodaspringsgeneralstore.com/">sodaspringsgeneralstore.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -120.384818,39.324929,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Safeway</name>
+      <description><![CDATA[Open 24 Hours
+
+<a href="https://local.safeway.com/safeway/ca/truckee/11290-donner-pass-rd.html">local.safeway.com</a>]]></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -120.2065043,39.327268,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sierra Country Store</name>
+      <description><![CDATA[<a href="http://www.sierracountrystore.com/">sierracountrystore.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -120.636204,39.565596,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 10:00 am-2:00 pm
+Sat 10:30 am-12:30 pm
+
+[Your Name]
+GENERAL DELIVERY
+SIERRA CITY, CA 96125-9995
+
+<a href="https://tools.usps.com/find-location.htm?location=1381635">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -120.6360113,39.5656792,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Belden Town Resort and Lodge</name>
+      <description><![CDATA[Resupplied on 2024-03-19 16:28:58 at 40.0061, -121.2512]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -121.251155,40.006061,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Haskins Valley Inn at Bucks Lake</name>
+      <description><![CDATA[<a href="https://www.haskinsvalleyinn.com/store/default.html">haskinsvalleyinn.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -121.1733145,39.8704285,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Safeway</name>
+      <description><![CDATA[Mon-Sun: 6:00 AM - 2:00 AM
+
+<a href="https://local.safeway.com/safeway/ca/quincy/20-e-main-st.html">local.safeway.com</a>]]></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -120.9375363,39.9367778,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Old Station Fill Up</name>
+      <description><![CDATA[Resupplied on 2024-03-19 16:22:36 at 40.6777, -121.4266]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -121.426581,40.677708,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Holiday Market</name>
+      <description><![CDATA[Open 7 a.m. - 10 p.m.
+
+<a href="https://www.shopholidaymarket.com/">shopholidaymarket.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -121.230288,40.307431,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 8:30 am-4:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+CHESTER, CA 96020-9998
+
+<a href="https://tools.usps.com/find-location.htm?location=1357846">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -121.2283815,40.3090221,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Drakesbad Guest Ranch</name>
+      <description><![CDATA[<a href="https://lassenlodging.com/food-service/">lassenlodging.com</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -121.4038353,40.4441893,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 11:00 am-3:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+OLD STATION, CA 96071-9998
+
+<a href="https://tools.usps.com/find-location.htm?location=1376032">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -121.4599019,40.6511355,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>JJ's Cafe</name>
+      <description><![CDATA[THU-SUN: 8AM-2PM
+
+<a href="https://jjscafeoldstation.com/">jjscafeoldstation.com</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -121.4276465,40.6769217,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 9:30 am-1:30 pm
+
+[Your Name]
+GENERAL DELIVERY
+CASSEL, CA 96016-9506
+
+<a href="https://tools.usps.com/find-location.htm?location=1357226">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -121.5528107,40.9190611,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Safeway</name>
+      <description><![CDATA[Mon-Sun: 6:00 AM - 12:00 AM
+
+<a href="https://local.safeway.com/safeway/ca/burney/37264-main-st.html">local.safeway.com</a>]]></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -121.6592771,40.8843465,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Burney Falls General Store</name>
+      <description><![CDATA[<a href="https://burney-store.edan.io/">burney-store.edan.io</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -121.649857,41.013689,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ammirati's Market</name>
+      <description></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -122.317357,41.148236,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 11:00 am-3:00 pm
+Sat 8:45 am-10:00 am
+
+[Your Name]
+GENERAL DELIVERY
+CASTELLA, CA 96017-9998
+
+<a href="https://tools.usps.com/find-location.htm?location=1357247">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3174332,41.1487138,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dollar General</name>
+      <description><![CDATA[Mon-Sun:  8:00 am - 10:00 pm
+
+<a href="https://www.dollargeneral.com/store-directory/ca/dunsmuir/16699">dollargeneral.com</a>]]></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -122.2742866,41.2189435,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dollar General</name>
+      <description><![CDATA[Mon-Sun: 8:00 am - 9:00 pm
+
+<a href="https://www.dollargeneral.com/store-directory/ca/etna/16154">dollargeneral.com</a>]]></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -122.893829,41.462899,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 9:00 am-5:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+ETNA, CA 96027-9998
+
+<a href="https://tools.usps.com/find-location.htm?location=1362782">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -122.8948662,41.4563671,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Seiad Valley Store</name>
+      <description><![CDATA[Resupplied on 2024-03-19 16:23:11 at 41.8423, -123.1963]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -123.196327,41.842262,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 12:00 pm-4:00 pm
+Sat 12:00 pm-1:30 pm
+
+[Your Name]
+GENERAL DELIVERY
+SEIAD VALLEY, CA 96086-9998
+
+<a href="https://tools.usps.com/find-location.htm?location=1381162">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -123.1961828,41.842202,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Safeway</name>
+      <description><![CDATA[Mon-Sun: 6:00 AM - 11:00 PM
+
+<a href="https://local.safeway.com/safeway/or/ashland/585-siskiyou-blvd.html">local.safeway.com</a>]]></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -122.706289,42.19342,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Callahan's Mountain Lodge</name>
+      <description><![CDATA[Mon - Fri: 3-8pm
+Sat & Sun: 11am-8pm
+
+<a href="https://callahanslodge.com/dining-bar/">callahanslodge.com</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -122.6025278,42.0738704,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mazama Village Campground & Cabins</name>
+      <description><![CDATA[7:00 am - 9:00 pm
+
+[Your Name]
+c/o Mazama Village Camper Store
+Mazama Village
+Crater Lake, OR 97604
+
+<a href="https://www.travelcraterlake.com/things-to-do/shopping-supplies/#mazama-village">travelcraterlake.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -122.166878,42.867452,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fish Lake Resort</name>
+      <description><![CDATA[<a href="https://fishlakeresort.net/?page_id=613">fishlakeresort.net</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -122.3150658,42.394032,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Shelter Cove Resort & Marina</name>
+      <description><![CDATA[<a href="https://www.sheltercoveresort.com/">sheltercoveresort.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -122.040104,43.580817,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Elk Lake Resort and Marina</name>
+      <description><![CDATA[<a href="https://elklakeresort.net/">elklakeresort.net</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -121.8066801,43.9806146,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dollar General</name>
+      <description><![CDATA[Mon-Sun: 8:00 am - 10:00 pm
+
+<a href="https://www.dollargeneral.com/store-directory/or/sisters/20532">dollargeneral.com</a>]]></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -121.561063,44.29481,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Olallie Lake Resort</name>
+      <description><![CDATA[<a href="https://olallielakeresort.com/menus/7/pages/10">olallielakeresort.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -121.788961,44.813797,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Big Lake Youth Camp</name>
+      <description><![CDATA[<a href="https://biglake.org/pct/">biglake.org</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -121.865303,44.3713607,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Timberline Lodge and Ski Area</name>
+      <description><![CDATA[<a href="https://www.timberlinelodge.com/lodge/dining">timberlinelodge.com</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -121.711006,45.331128,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Columbia Market</name>
+      <description></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -121.895182,45.665776,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 8:30 am-1:00 pm, 2:00 pm-5:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+CASCADE LOCKS, OR 97014-7014
+
+<a href="https://tools.usps.com/find-location.htm?location=1357188">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -121.8958298,45.6655673,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Transportation</name>
+      <description><![CDATA[<a href="https://maps.app.goo.gl/Mcs8NVXwwhpYNW8ZA">Hood River</a>
+
+<a href="https://maps.app.goo.gl/tcbLcg2RubYvqNCp8">Portland</a>]]></description>
+      <styleUrl>#mappoff-icon-shuttle</styleUrl>
+      <Point>
+        <coordinates>
+          -121.895066,45.666077,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Walmart</name>
+      <description></description>
+      <styleUrl>#mappoff-icon-grocery</styleUrl>
+      <Point>
+        <coordinates>
+          -121.538572,45.711934,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trout Lake Grocery</name>
+      <description><![CDATA[7:30 am – 7:00 pm
+
+<a href="https://troutlake.org/trout-lake-grocery/">troutlake.org</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -121.527944,45.99662,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kracker Barrel Store & Services</name>
+      <description><![CDATA[Resupplied on 2024-03-19 16:26:32 at 46.6395, -121.3887]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -121.388689,46.639487,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lee's Summit Grocery</name>
+      <description><![CDATA[Resupplied on 2024-03-19 16:26:36 at 47.4214, -121.4111]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -121.4111411,47.421385,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[[Your Name]
+GENERAL DELIVERY
+521 STATE ROUTE 906
+SNOQUALMIE PASS, WA 98068-9800
+
+<a href="https://tools.usps.com/find-location.htm?location=1448720">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -121.4122582,47.4230121,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stevens Pass</name>
+      <description><![CDATA[FEDEX OR UPS ONLY:
+
+[Your Name] [ETA]
+c/o Stevens Pass, Through Hiker
+93001 NE Stevens Pass Hwy, US 2
+Skykomish, WA 98288]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -121.0894322,47.7447015,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Granite Peaks Lodge</name>
+      <description><![CDATA[<a href="https://www.stevenspass.com/explore-the-resort/during-your-stay/dining.aspx">stevenspass.com</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -121.089794,47.7445373,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sky Gas & Grocery</name>
+      <description><![CDATA[Resupplied on 2024-03-19 16:27:18 at 47.7111, -121.3615]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -121.361535,47.711074,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Transportation</name>
+      <description><![CDATA[9:00AM, 12:30PM, 3:00PM, 6:15PM
+
+<a href="https://ladyofthelake.com/transportation/">Stehekin</a>]]></description>
+      <styleUrl>#mappoff-icon-shuttle</styleUrl>
+      <Point>
+        <coordinates>
+          -120.839546,48.380247,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>United States Postal Service</name>
+      <description><![CDATA[Mon-Fri 10:00 am-4:00 pm
+
+[Your Name]
+GENERAL DELIVERY
+STEHEKIN, WA 98852-9801
+
+<a href="https://tools.usps.com/find-location.htm?location=1383496">tools.usps.com</a>]]></description>
+      <styleUrl>#mappoff-icon-postoffice</styleUrl>
+      <Point>
+        <coordinates>
+          -120.65679,48.310169,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stehekin Pastry Company</name>
+      <description><![CDATA[<a href="https://stehekinpastry.com/">stehekinpastry.com</a>]]></description>
+      <styleUrl>#mappoff-icon-food</styleUrl>
+      <Point>
+        <coordinates>
+          -120.6853188,48.3234426,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mazama Store</name>
+      <description><![CDATA[EVERYDAY 7AM-6PM
+
+<a href="https://www.themazamastore.com/">themazamastore.com</a>]]></description>
+      <styleUrl>#mappoff-icon-market</styleUrl>
+      <Point>
+        <coordinates>
+          -120.4057547,48.593331,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

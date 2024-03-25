@@ -124,7 +124,7 @@
       </IconStyle>
     </Style>
     <Placemark>
-      <name>Campo Green Store and Deli</name>
+      <name>Campo Green Store &amp; Deli</name>
       <description><![CDATA[Monday to Sunday: 8:00 AM – 8:00 PM
 
 <a href="https://www.campogreenstore.com/">campogreenstore.com</a>]]></description>
@@ -190,7 +190,7 @@ CAMPO, CA 91906-9998
     </Placemark>
     <Placemark>
       <name>Jack's Grocery</name>
-      <description><![CDATA[Resupplied on 2024-03-19 16:11:45 at 33.0781, -116.6020]]></description>
+      <description></description>
       <styleUrl>#mappoff-icon-market</styleUrl>
       <Point>
         <coordinates>
@@ -200,7 +200,7 @@ CAMPO, CA 91906-9998
     </Placemark>
     <Placemark>
       <name>Julian Market and Deli</name>
-      <description><![CDATA[Camped on 2024-03-19 16:40:39 at 33.0787, -116.6025]]></description>
+      <description></description>
       <styleUrl>#mappoff-icon-market</styleUrl>
       <Point>
         <coordinates>
@@ -479,7 +479,7 @@ BIG BEAR LAKE, CA 92315-1518
     </Placemark>
     <Placemark>
       <name>Cedar Glen Malt Shop</name>
-      <description><![CDATA[Ate on 2024-03-19 16:18:17 at 34.2539, -117.1678]]></description>
+      <description></description>
       <styleUrl>#mappoff-icon-food</styleUrl>
       <Point>
         <coordinates>
@@ -500,7 +500,7 @@ BIG BEAR LAKE, CA 92315-1518
       </Point>
     </Placemark>
     <Placemark>
-      <name>Joshua Inn Bar & Deli</name>
+      <name>Joshua Inn Bar &amp; Deli</name>
       <description><![CDATA[<a href="https://joshua-inn.business.site/">joshua-inn.business.site</a>]]></description>
       <styleUrl>#mappoff-icon-food</styleUrl>
       <Point>
@@ -524,7 +524,7 @@ Fri-Sun 05:00 AM to 11:00 PM
     </Placemark>
     <Placemark>
       <name>Chevron</name>
-      <description><![CDATA[Resupplied on 2024-03-19 16:18:38 at 34.3095, -117.4709]]></description>
+      <description></description>
       <styleUrl>#mappoff-icon-market</styleUrl>
       <Point>
         <coordinates>
@@ -534,7 +534,7 @@ Fri-Sun 05:00 AM to 11:00 PM
     </Placemark>
     <Placemark>
       <name>Wrightwood Fine Foods</name>
-      <description><![CDATA[Resupplied on 2024-03-19 16:18:43 at 34.3610, -117.6320]]></description>
+      <description></description>
       <styleUrl>#mappoff-icon-market</styleUrl>
       <Point>
         <coordinates>
@@ -620,7 +620,7 @@ Lancaster, CA 93536]]></description>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Neenach Cafe & Market</name>
+      <name>Neenach Cafe &amp; Market</name>
       <description></description>
       <styleUrl>#mappoff-icon-market</styleUrl>
       <Point>
@@ -831,7 +831,7 @@ LONE PINE, CA 93545-9997
     </Placemark>
     <Placemark>
       <name>Valero</name>
-      <description><![CDATA[Resupplied on 2024-03-19 16:20:12 at 36.8019, -118.1991]]></description>
+      <description></description>
       <styleUrl>#mappoff-icon-market</styleUrl>
       <Point>
         <coordinates>
@@ -1047,7 +1047,7 @@ SIERRA CITY, CA 96125-9995
     </Placemark>
     <Placemark>
       <name>Belden Town Resort and Lodge</name>
-      <description><![CDATA[Resupplied on 2024-03-19 16:28:58 at 40.0061, -121.2512]]></description>
+      <description></description>
       <styleUrl>#mappoff-icon-market</styleUrl>
       <Point>
         <coordinates>
@@ -1079,7 +1079,7 @@ SIERRA CITY, CA 96125-9995
     </Placemark>
     <Placemark>
       <name>Old Station Fill Up</name>
-      <description><![CDATA[Resupplied on 2024-03-19 16:22:36 at 40.6777, -121.4266]]></description>
+      <description></description>
       <styleUrl>#mappoff-icon-market</styleUrl>
       <Point>
         <coordinates>
@@ -1260,7 +1260,7 @@ ETNA, CA 96027-9998
     </Placemark>
     <Placemark>
       <name>Seiad Valley Store</name>
-      <description><![CDATA[Resupplied on 2024-03-19 16:23:11 at 41.8423, -123.1963]]></description>
+      <description></description>
       <styleUrl>#mappoff-icon-market</styleUrl>
       <Point>
         <coordinates>
@@ -1311,7 +1311,7 @@ Sat & Sun: 11am-8pm
       </Point>
     </Placemark>
     <Placemark>
-      <name>Mazama Village Campground & Cabins</name>
+      <name>Mazama Village Campground &amp; Cabins</name>
       <description><![CDATA[7:00 am - 9:00 pm
 
 [Your Name]
@@ -1338,7 +1338,7 @@ Crater Lake, OR 97604
       </Point>
     </Placemark>
     <Placemark>
-      <name>Shelter Cove Resort & Marina</name>
+      <name>Shelter Cove Resort &amp; Marina</name>
       <description><![CDATA[<a href="https://www.sheltercoveresort.com/">sheltercoveresort.com</a>]]></description>
       <styleUrl>#mappoff-icon-market</styleUrl>
       <Point>
@@ -1460,8 +1460,8 @@ CASCADE LOCKS, OR 97014-7014
       </Point>
     </Placemark>
     <Placemark>
-      <name>Kracker Barrel Store & Services</name>
-      <description><![CDATA[Resupplied on 2024-03-19 16:26:32 at 46.6395, -121.3887]]></description>
+      <name>Kracker Barrel Store &amp; Services</name>
+      <description></description>
       <styleUrl>#mappoff-icon-market</styleUrl>
       <Point>
         <coordinates>
@@ -1471,7 +1471,7 @@ CASCADE LOCKS, OR 97014-7014
     </Placemark>
     <Placemark>
       <name>Lee's Summit Grocery</name>
-      <description><![CDATA[Resupplied on 2024-03-19 16:26:36 at 47.4214, -121.4111]]></description>
+      <description></description>
       <styleUrl>#mappoff-icon-market</styleUrl>
       <Point>
         <coordinates>
@@ -1520,8 +1520,8 @@ Skykomish, WA 98288]]></description>
       </Point>
     </Placemark>
     <Placemark>
-      <name>Sky Gas & Grocery</name>
-      <description><![CDATA[Resupplied on 2024-03-19 16:27:18 at 47.7111, -121.3615]]></description>
+      <name>Sky Gas &amp; Grocery</name>
+      <description></description>
       <styleUrl>#mappoff-icon-market</styleUrl>
       <Point>
         <coordinates>

@@ -56,7 +56,7 @@ To move the map, touch anywhere on the map and drag to the location to move to.
 
 ### Preferences
 
-To modify preferences, press Preferences from the menu. Update your Trail Name if desired. This will be used when [sharing](#share) placemarks. Adjust the Default Zoom. This will be used when [zooming](#zoom) to a placemark. Set the Metric Units if you prefer to use metric. This will be used when viewing distances of [placemarks](#placemarks).
+To modify preferences, press Preferences from the menu. Update your Trail Name if desired. This will be used when [sharing](#share) placemarks. Change the Tile Server to select which map tiles are displayed. Adjust the Default Zoom. This will be used when [zooming](#zoom) to a placemark. Set the Metric Units if you prefer to use metric. This will be used when viewing distances of [placemarks](#placemarks).
 
 <img src="./screenshots/android/preferences.webp" alt="Preferences" height="400">
 

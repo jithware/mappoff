@@ -19,20 +19,11 @@ For Wear OS users, there is a slimmed down [version](https://github.com/jithware
 
 <br>
 
-<table>
-     <tr>
-          <td><img src="./screenshots/android/1_home.png" alt="Home" height="400"></td>
-          <td><img src="./screenshots/android/2_drawer.png" alt="Drawer" height="400"></td>
-          <td><img src="./screenshots/android/3_layers.png" alt="Layers" height="400"></td>
-          <td><img src="./screenshots/android/4_layer.png" alt="Layer" height="400"></td>
-     </tr> 
-     <tr>
-          <td><img src="./screenshots/android/5_placemarks.png" alt="Placemarks" height="400"></td>
-          <td><img src="./screenshots/android/6_share.png" alt="Share" height="400"></td>
-          <td><img src="./screenshots/android/7_preferences.png" alt="Preferences" height="400"></td>
-          <td><img src="./screenshots/android/8_presets.png" alt="Presets" height="400"></td>
-     </tr> 
-</table>
+<img src="./screenshots/android/montage1.png" alt="Screenshots 1-4">
+
+<br>
+
+<img src="./screenshots/android/montage2.png" alt="Screenshots 5-8">
 
 ## Usage
 

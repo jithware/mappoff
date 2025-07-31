@@ -124,6 +124,19 @@ To start tracking, press the Track button. Select allow to run in background. Ad
 
 <img src="./screenshots/android/tracking.webp" alt="Tracking" height="400">
 
+
+### Track Line
+
+To create a Track Line, first add a Track Point [placemark](#placemark). Then [move](#move) or alternatively jump to a new location by pressing the current location text at the top and entering a new location. Add another Track Point. A Track Line will automatically connect the two Track Points. Continue creating additional track points as desired. The resulting Track Line can be set as a [centerline](#centerline) layer and associated with other Layers.
+
+<img src="./screenshots/android/trackline.webp" alt="Track LIne" height="400">
+
+### Trace Line
+
+To trace a line along a [centerline](#centerline) first open a [preset](#presets) centerline layer and update your current [location](#location). Press the current mile/km marker text at the top. Enter the mile/km marker you want to trace to or the miles/kms you want to trace ahead.
+
+<img src="./screenshots/android/trace.webp" alt="Trace Line" height="400">
+
 ### Navigation
 
 To start navigation view, press the Navigate button. To stop navigation view, press the Navigate button again.
@@ -156,7 +169,7 @@ To share a placemark, long press the placemark. Press the Share button. Edit the
 
 ### Centerline
 
-To associate a preset centerline with a layer, first add a new [layer](#layers). Open the [preset](#presets) you would like to associate with the layer. Edit the layer and select the preset from the Centerline dropdown. Return to the map and notice the current location mile marker is shown in bold text at the top of the screen. Add a [placemark](#placemark) to the layer. Notice the placemark includes the placemark mile marker in bold text to the right. Additionally notice the hiking distances where the first distance is the straight line distance and the second is the distance along the centerline from the current location to the placemark. 
+To associate a preset centerline with a layer, first add a new [layer](#layers). Open the [preset](#presets) you would like to associate with the layer. Edit the layer and select the preset from the Centerline dropdown. Return to the map and notice the current location mile/km marker is shown in bold text at the top of the screen. Add a [placemark](#placemark) to the layer. Notice the placemark includes the placemark mile/km marker in bold text to the right. Additionally notice the hiking distances where the first distance is the straight line distance and the second is the distance along the centerline from the current location to the placemark. 
 
 <img src="./screenshots/android/centerline.webp" alt="Share" height="400">
 

@@ -45,6 +45,12 @@ To move the map, touch anywhere on the map and drag to the location to move to.
 
 <img src="./screenshots/android/move.webp" alt="Move" height="400">
 
+### Jump
+
+To jump to a new location, press the current location text and enter a latitude,longitude or placemark name.
+
+<img src="./screenshots/android/jumpto.webp" alt="Jump" height="400">
+
 ### Preferences
 
 To modify preferences, press Preferences from the menu. Update your Trail Name if desired. This will be used when [sharing](#share) placemarks. Change the Tile Server to select which map tiles are displayed. Adjust the Default Zoom. This will be used when [zooming](#zoom) to a placemark. Set the Metric Units if you prefer to use metric. This will be used when viewing distances of [placemarks](#placemarks).
@@ -125,17 +131,23 @@ To start tracking, press the Track button. Select allow to run in background. Ad
 <img src="./screenshots/android/tracking.webp" alt="Tracking" height="400">
 
 
-### Track Line
+### Trackline
 
-To create a Track Line, first add a Track Point [placemark](#placemark). Then [move](#move) or alternatively jump to a new location by pressing the current location text at the top and entering a new location. Add another Track Point. A Track Line will automatically connect the two Track Points. Continue creating additional track points as desired. The resulting Track Line can be set as a [centerline](#centerline) layer and associated with other Layers.
+To create a Track Line, first add a Track Point [placemark](#placemark). Then [move](#move) or alternatively [jump](#jump) to a new location. Add another Track Point. A Track Line will automatically connect the two Track Points. Continue creating additional track points as desired. The resulting Track Line can be set as a [centerline](#centerline) layer and associated with other Layers.
 
-<img src="./screenshots/android/trackline.webp" alt="Track LIne" height="400">
+<img src="./screenshots/android/trackline.webp" alt="Trackline" height="400">
 
-### Trace Line
+### Trace
 
-To trace a line along a [centerline](#centerline) first open a [preset](#presets) centerline layer and update your current [location](#location). Press the current mile/km marker text at the top. Enter the mile/km marker you want to trace to or the miles/kms you want to trace ahead.
+To trace a line along a [centerline](#centerline) from your current location, first open a [preset](#presets) centerline layer and update your current [location](#location). Long press the add [placemark](#placemark) button. Enter the mile/km marker you want to trace to or the miles/kms you want to trace ahead to.
 
 <img src="./screenshots/android/trace.webp" alt="Trace Line" height="400">
+
+### Traceline
+
+To create a Trace Line along a [centerline](#centerline) from two fixed points, first open a [preset](#presets) centerline layer. Create a new [layer](#layers) and set the centerline to the centerline layer opened. Create two trace points to where you want a trace line to be drawn in between.
+
+<img src="./screenshots/android/traceline.webp" alt="Traceline" height="400">
 
 ### Navigation
 

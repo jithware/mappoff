@@ -145,7 +145,7 @@ To trace a line along a [centerline](#centerline) from your current location, fi
 
 ### Traceline
 
-To create a Trace Line along a [centerline](#centerline) from two fixed points, first open a [preset](#presets) centerline layer. Create a new [layer](#layers) and set the centerline to the centerline layer opened. Create two trace points to where you want a trace line to be drawn in between.
+To create a Trace Line along a [centerline](#centerline) from two fixed points, first open a [preset](#presets) centerline layer. Create two trace points to where you want a trace line to be drawn in between.
 
 <img src="./screenshots/android/traceline.webp" alt="Traceline" height="400">
 

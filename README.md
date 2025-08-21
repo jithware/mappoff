@@ -181,7 +181,7 @@ To share a placemark, long press the placemark. Press the Share button. Edit the
 
 ### Centerline
 
-To associate a preset centerline with a layer, first add a new [layer](#layers). Open the [preset](#presets) you would like to associate with the layer. Edit the layer and select the preset from the Centerline dropdown. Return to the map and notice the current location mile/km marker is shown in bold text at the top of the screen. Add a [placemark](#placemark) to the layer. Notice the placemark includes the placemark mile/km marker in bold text to the right. Additionally notice the hiking distances where the first distance is the straight line distance and the second is the distance along the centerline from the current location to the placemark. 
+To associate a preset centerline with a layer, first open the [preset](#presets) you would like to associate with the layer. Add a new [layer](#layers) and select the centerline from the Centerline dropdown. Return to the map and notice the current location mile/km marker is shown in bold text at the top of the screen. Add a [placemark](#placemark) to the layer. Notice the placemark includes the placemark mile/km marker in bold text to the right. Additionally notice the hiking distances where the first distance is the straight line distance and the second is the distance along the centerline from the current location to the placemark. 
 
 <img src="./screenshots/android/centerline.webp" alt="Share" height="400">
 

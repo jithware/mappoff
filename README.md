@@ -126,7 +126,7 @@ To show only points in a Layer, [edit](#layers) the layer and select only the po
 
 ### Tracking
 
-To start tracking, press the Track button. Select allow to run in background. Adjust the desired Tracking Interval and/or Tracking Distance Filter from the Preferences menu. Tracking Interval is time between tracking points. Tracking Distance Filter is the minimum amount of distance in meters that must be between points for a new point to be created. To stop tracking, press the Track button again.
+To start tracking, press the Track button. Select allow to run in background. Adjust the desired Tracking Interval and/or Tracking Distance Filter from the Preferences menu. Tracking Interval is time between tracking points. Tracking Distance Filter is the minimum amount of distance in meters that must be between points for a new point to be created. To change the view between distance, duration and rate, tap the text display. To stop tracking, press the Track button again.
 
 <img src="./screenshots/android/tracking.webp" alt="Tracking" height="400">
 

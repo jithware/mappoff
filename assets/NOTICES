@@ -1956,6 +1956,7 @@ url_launcher_ios
 url_launcher_linux
 url_launcher_macos
 url_launcher_windows
+vector_graphics
 vector_graphics_compiler
 video_player
 video_player_android
@@ -6254,7 +6255,6 @@ shared_preferences_web
 shared_preferences_windows
 url_launcher
 url_launcher_platform_interface
-vector_graphics
 vector_graphics_codec
 video_player_web
 webview_flutter_platform_interface

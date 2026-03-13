@@ -139,7 +139,7 @@ To create a Track Line, first add a Track Point [placemark](#placemark). Then [m
 
 ### Trace
 
-To trace a line along a [centerline](#centerline) from your current location, first open a [preset](#presets) centerline layer and update your current [location](#location). Long press the add [placemark](#placemark) button. Enter the mile/km marker you want to trace to or the miles/kms you want to trace ahead to.
+To trace a line along a [centerline](#centerline) from your current location, first open a [preset](#presets) centerline layer and update your current [location](#location). Long press the mile/km marker text. Enter the mile/km marker you want to trace to or the miles/kms you want to trace ahead to.
 
 <img src="./screenshots/android/trace.webp" alt="Trace Line" height="400">
 
